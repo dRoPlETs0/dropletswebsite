@@ -1,1 +1,89 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Droplets - Smart Farming App</title>
+    <style>
+        body {
+            font-family: Arial, sans-serif;
+            margin: 0;
+            padding: 0;
+            background-color: #e0f7fa;
+            color: #333;
+        }
+        header {
+            background-color: #0288d1;
+            color: white;
+            padding: 20px;
+            text-align: center;
+            font-size: 24px;
+        }
+        .container {
+            max-width: 1200px;
+            margin: 20px auto;
+            padding: 20px;
+            background: white;
+            border-radius: 10px;
+            box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
+        }
+        h2 {
+            color: #0288d1;
+        }
+        .feature {
+            padding: 10px 0;
+            border-bottom: 1px solid #ddd;
+        }
+        .footer {
+            text-align: center;
+            padding: 20px;
+            background-color: #0288d1;
+            color: white;
+            margin-top: 20px;
+        }
+    </style>
+</head>
+<body>
+    <header>
+        Droplets - Smart Farming App
+    </header>
+    <div class="container">
+        <h2>About Droplets</h2>
+        <p>Droplets is a farming assistant app that helps farmers manage water requirements, analyze soil fertility, scan pH levels, and optimize fertilizer use. It also provides AI-based recommendations and supports both amateur and experienced farmers.</p>
+        
+        <h2>Features</h2>
+        <div class="feature">
+            <h3>Water Requirement Estimation</h3>
+            <p>Helps farmers determine the right amount of water needed for their crops.</p>
+        </div>
+        <div class="feature">
+            <h3>Soil Fertility & pH Analysis</h3>
+            <p>Scan test strips using the camera to determine soil pH and fertility levels.</p>
+        </div>
+        <div class="feature">
+            <h3>Fertilizer Recommendations</h3>
+            <p>Provides precise fertilizer suggestions based on soil health and crop needs.</p>
+        </div>
+        <div class="feature">
+            <h3>Crop Suitability & Multi-Cropping Scheduling</h3>
+            <p>Suggests the best crops for a given soil type and plans crop rotations.</p>
+        </div>
+        <div class="feature">
+            <h3>Marketplace</h3>
+            <p>Buy and sell high-quality seeds, fertilizers, and farming equipment.</p>
+        </div>
+        <div class="feature">
+            <h3>Community & Forums</h3>
+            <p>Connect with other farmers, share experiences, and get tips.</p>
+        </div>
+        <div class="feature">
+            <h3>Government Schemes & Subsidies</h3>
+            <p>Access information on farming-related government schemes and financial support.</p>
+        </div>
+    </div>
+    <div class="footer">
+        &copy; 2025 Droplets | Smart Farming for a Better Future
+    </div>
+</body>
+</html>
 
